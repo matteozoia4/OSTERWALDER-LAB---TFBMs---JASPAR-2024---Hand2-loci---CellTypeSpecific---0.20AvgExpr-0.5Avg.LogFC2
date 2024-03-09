@@ -1,0 +1,280 @@
+track aCM_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213509c48a028a8c8fd4/display?to_ext=bigbed
+shortLabel aCM - TFBMs - Hand2 Loci
+longLabel aCM highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track AVC_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c2db0de053cede78/display?to_ext=bigbed
+shortLabel AVC - TFBMs - Hand2 Loci
+longLabel AVC highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track cNCC_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352e77776e20b60aac/display?to_ext=bigbed
+shortLabel cNCC - TFBMs - Hand2 Loci
+longLabel cNCC highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track EC_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213555e310e66b52eca3/display?to_ext=bigbed
+shortLabel EC - TFBMs - Hand2 Loci
+longLabel EC highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track EndMT_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359f28c35f98454585/display?to_ext=bigbed
+shortLabel EndMT - TFBMs - Hand2 Loci
+longLabel EndMT highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track EP_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354bae9997bb083749/display?to_ext=bigbed
+shortLabel EP - TFBMs - Hand2 Loci
+longLabel EP highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track FB_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135eb2c2ac380666640/display?to_ext=bigbed
+shortLabel FB - TFBMs - Hand2 Loci
+longLabel FB highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track M_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356a011d1f852b3e84/display?to_ext=bigbed
+shortLabel M - TFBMs - Hand2 Loci
+longLabel M highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track NCC_like_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356fae1c4c0fb042a7/display?to_ext=bigbed
+shortLabel NCC-like - TFBMs - Hand2 Loci
+longLabel NCC-like highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track OFT_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213567b37611109b0ce8/display?to_ext=bigbed
+shortLabel OFT - TFBMs - Hand2 Loci
+longLabel OFT highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+
+track PA_ecto_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ca59de5ed8b1b5b8/display?to_ext=bigbed
+shortLabel PA-ecto - TFBMs - Hand2 Loci
+longLabel PA-ecto highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+
+track PA_endo_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213588f6901b61e6f48e/display?to_ext=bigbed
+shortLabel PA-endo - TFBMs - Hand2 Loci
+longLabel PA-endo highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track PaM_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213560dd72763585fa8d/display?to_ext=bigbed
+shortLabel PaM - TFBMs - Hand2 Loci
+longLabel PaM highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track PE_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135bbc127f412c81f41/display?to_ext=bigbed
+shortLabel PE - TFBMs - Hand2 Loci
+longLabel PE highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track PM_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135602f0824e7412a73/display?to_ext=bigbed
+shortLabel PM - TFBMs - Hand2 Loci
+longLabel PM highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track pSHF_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cbbbe984b93f9a04/display?to_ext=bigbed
+shortLabel pSHF - TFBMs - Hand2 Loci
+longLabel pSHF highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track RBC_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355a99b1e57e78875d/display?to_ext=bigbed
+shortLabel RBC - TFBMs - Hand2 Loci
+longLabel RBC highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+
+track SV_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e240bbb0dc76b843/display?to_ext=bigbed
+shortLabel SV - TFBMs - Hand2 Loci
+longLabel SV highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track TP_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357fdef1a78e481c47/display?to_ext=bigbed
+shortLabel TP - TFBMs - Hand2 Loci
+longLabel TP highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track vCM_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352054f44dbb6cd755/display?to_ext=bigbed
+shortLabel vCM - TFBMs - Hand2 Loci
+longLabel vCM highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track VEC_highly_expressed_TFs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fd75ae6f84cddc40/display?to_ext=bigbed
+shortLabel VEC - TFBMs - Hand2 Loci
+longLabel VEC highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+
+
+
+
