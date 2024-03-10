@@ -89,10 +89,10 @@ type bigBed 6 .
     filterLimits.score 0:1000
     filterText.name **
 
-track M_highly_expressed_TFs_Hand2_loci
+track MP_highly_expressed_TFs_Hand2_loci
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356a011d1f852b3e84/display?to_ext=bigbed
-shortLabel M - TFBMs - Hand2 Loci
-longLabel M highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+shortLabel MP - TFBMs - Hand2 Loci
+longLabel MP highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
 itemRgb on
 useScore 1
 configurable on
