@@ -115,10 +115,10 @@ type bigBed 6 .
     filterLimits.score 0:1000
     filterText.name **
 
-track OFT_highly_expressed_TFs_Hand2_loci
+track aSHF_OFT_highly_expressed_TFs_Hand2_loci
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213567b37611109b0ce8/display?to_ext=bigbed
-shortLabel OFT - TFBMs - Hand2 Loci
-longLabel OFT highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
+shortLabel aSHF-OFT - TFBMs - Hand2 Loci
+longLabel aSHF-OFT highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs binding in Hand2 loci
 itemRgb on
 useScore 1
 configurable on
