@@ -51,7 +51,7 @@ type bigBed 6 .
     filterText.name **
 
 track EC_e_l_TopMarkers_TFs_Hand2_loci
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a3ca651bda2f8a1f/display?to_ext=bigbed
 shortLabel EC-e/EC-l - TFBMs - Hand2 Loci
 longLabel EC-e/EC-l Highly expressed TFs - TopMarkers !
 itemRgb on
