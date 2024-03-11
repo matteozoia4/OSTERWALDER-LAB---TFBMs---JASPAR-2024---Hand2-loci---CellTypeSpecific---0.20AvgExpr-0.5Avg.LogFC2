@@ -50,6 +50,19 @@ type bigBed 6 .
     filterLimits.score 0:1000
     filterText.name **
 
+track EC_e_l_TopMarkers_TFs_Hand2_loci
+bigDataUrl 
+shortLabel EC-e/EC-l - TFBMs - Hand2 Loci
+longLabel EC-e/EC-l Highly expressed TFs - TopMarkers !
+itemRgb on
+useScore 1
+configurable on
+visibility full
+type bigBed 6 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
 track EndMT_highly_expressed_TFs_Hand2_loci
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359f28c35f98454585/display?to_ext=bigbed
 shortLabel EndMT - TFBMs - Hand2 Loci
