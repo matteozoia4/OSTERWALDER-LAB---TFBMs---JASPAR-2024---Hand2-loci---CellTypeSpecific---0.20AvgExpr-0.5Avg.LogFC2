@@ -1,4 +1,4 @@
-hub OSTERWALDER LAB - Hand2 loci - TFBMs JASPAR 2024
+hub OSTERWALDER LAB - Cell-type specific TFBMs - JASPAR 2024
 shortLabel TFBMs JASPAR 2024 (vertebrates) + Multiomic snRNA (21Clusters) [mm10]
 longLabel Multiome cell-type specific highly expressed (20% Avg.Expr, 0.5 Avg.Log2FC) TFs 
 genomesFile genomes.txt 
