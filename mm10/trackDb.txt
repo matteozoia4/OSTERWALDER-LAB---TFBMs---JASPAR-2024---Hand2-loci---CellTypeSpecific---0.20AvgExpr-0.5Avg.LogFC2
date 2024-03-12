@@ -5,7 +5,7 @@ longLabel aCM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -18,7 +18,7 @@ longLabel AVC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -31,7 +31,7 @@ longLabel cNCC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -44,7 +44,7 @@ longLabel EC-e/EC-l - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -57,7 +57,7 @@ longLabel EndMT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -70,7 +70,7 @@ longLabel EP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -83,7 +83,7 @@ longLabel SMC-FB - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -96,7 +96,7 @@ longLabel MP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -109,7 +109,7 @@ longLabel NCC-like - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -122,7 +122,7 @@ longLabel aSHF-OFT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -136,7 +136,7 @@ longLabel PA-ecto - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -150,7 +150,7 @@ longLabel PA-endo - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -163,7 +163,7 @@ longLabel PaM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -176,7 +176,7 @@ longLabel PE - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -189,7 +189,7 @@ longLabel CPM-OFT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -202,7 +202,7 @@ longLabel pSHF - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -215,7 +215,7 @@ longLabel RBC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -229,7 +229,7 @@ longLabel SV - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -242,7 +242,7 @@ longLabel TP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -255,7 +255,7 @@ longLabel vCM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
@@ -268,7 +268,7 @@ longLabel VEC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
 useScore 1
 configurable on
-visibility full
+visibility dense
 type bigBed 6 .
     filter.score 0
     filterLimits.score 0:1000
