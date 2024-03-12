@@ -90,7 +90,7 @@ type bigBed 6 .
     filterText.name **
 
 track MP_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354cc7cb6a5f9de476/display?to_ext=bigbed
 shortLabel MP - Cluster specific TFs - Hand2 loci
 longLabel MP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -183,7 +183,7 @@ type bigBed 6 .
     filterText.name **
 
 track CPM_OFT_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352e59ad572e64eafb/display?to_ext=bigbed
 shortLabel CPM-OFT - Cluster specific TFs - Hand2 loci
 longLabel CPM-OFT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
