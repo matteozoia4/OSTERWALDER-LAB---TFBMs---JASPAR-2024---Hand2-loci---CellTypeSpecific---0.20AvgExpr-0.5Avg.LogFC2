@@ -1,5 +1,5 @@
 track aCM_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e553c920d5a1908c/display?to_ext=bigbed
+bigDataUrl 
 shortLabel aCM - Cluster specific TFs - Hand2 loci
 longLabel aCM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -12,7 +12,7 @@ type bigBed 6 .
     filterText.name **
 
 track AVC_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351a0f6d3f2357d034/display?to_ext=bigbed
+bigDataUrl 
 shortLabel AVC - Cluster specific TFs - Hand2 loci
 longLabel AVC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -38,7 +38,7 @@ type bigBed 6 .
     filterText.name **
 
 track EC_e_l_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213565efe2bec6035009/display?to_ext=bigbed
+bigDataUrl 
 shortLabel EC-e/EC-l - Cluster specific TFs - Hand2 loci
 longLabel EC-e/EC-l - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -51,7 +51,7 @@ type bigBed 6 .
     filterText.name **
 
 track EndMT_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135601bd70b150e4b84/display?to_ext=bigbed
+bigDataUrl 
 shortLabel EndMT - Cluster specific TFs - Hand2 loci
 longLabel EndMT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -64,7 +64,7 @@ type bigBed 6 .
     filterText.name **
 
 track EP_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353a4d7b5527d71c4f/display?to_ext=bigbed
+bigDataUrl 
 shortLabel EP - Cluster specific TFs - Hand2 loci
 longLabel EP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -77,7 +77,7 @@ type bigBed 6 .
     filterText.name **
 
 track SMC_FB_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351ac779977ac0a687/display?to_ext=bigbed
+bigDataUrl 
 shortLabel SMC-FB - Cluster specific TFs - Hand2 loci
 longLabel SMC-FB - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -90,7 +90,7 @@ type bigBed 6 .
     filterText.name **
 
 track MP_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354cc7cb6a5f9de476/display?to_ext=bigbed
+bigDataUrl 
 shortLabel MP - Cluster specific TFs - Hand2 loci
 longLabel MP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -103,7 +103,7 @@ type bigBed 6 .
     filterText.name **
 
 track NCC_like_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b77caaea80044a7b/display?to_ext=bigbed
+bigDataUrl 
 shortLabel NCC-like - Cluster specific TFs - Hand2 loci
 longLabel NCC-like - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -116,7 +116,7 @@ type bigBed 6 .
     filterText.name **
 
 track aSHF_OFT_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed9b1541fa56ea43/display?to_ext=bigbed
+bigDataUrl 
 shortLabel aSHF-OFT - Cluster specific TFs - Hand2 loci
 longLabel aSHF-OFT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -130,7 +130,7 @@ type bigBed 6 .
 
 
 track PA_ecto_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358b286ae8389a1256/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PA-ecto - Cluster specific TFs - Hand2 loci
 longLabel PA-ecto - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -144,7 +144,7 @@ type bigBed 6 .
 
 
 track PA_endo_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b2f3a3d163259af8/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PA-endo - Cluster specific TFs - Hand2 loci
 longLabel PA-endo - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -157,7 +157,7 @@ type bigBed 6 .
     filterText.name **
 
 track PaM_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357ef9f8587461f9a3/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PaM - Cluster specific TFs - Hand2 loci
 longLabel PaM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -170,7 +170,7 @@ type bigBed 6 .
     filterText.name **
 
 track PE_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135eb9a47176e7a37d9/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PE - Cluster specific TFs - Hand2 loci
 longLabel PE - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -183,7 +183,7 @@ type bigBed 6 .
     filterText.name **
 
 track CPM_OFT_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352e59ad572e64eafb/display?to_ext=bigbed
+bigDataUrl 
 shortLabel CPM-OFT - Cluster specific TFs - Hand2 loci
 longLabel CPM-OFT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -196,7 +196,7 @@ type bigBed 6 .
     filterText.name **
 
 track pSHF_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353a5a5d6569fec9e9/display?to_ext=bigbed
+bigDataUrl 
 shortLabel pSHF - Cluster specific TFs - Hand2 loci
 longLabel pSHF - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -209,7 +209,7 @@ type bigBed 6 .
     filterText.name **
 
 track RBC_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213527d580ae23fefc42/display?to_ext=bigbed
+bigDataUrl 
 shortLabel RBC - Cluster specific TFs - Hand2 loci
 longLabel RBC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -223,7 +223,7 @@ type bigBed 6 .
 
 
 track SV_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135477da7a5e301d83a/display?to_ext=bigbed
+bigDataUrl 
 shortLabel SV - Cluster specific TFs - Hand2 loci
 longLabel SV - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -236,7 +236,7 @@ type bigBed 6 .
     filterText.name **
 
 track TP_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352ba9b2720d00a895/display?to_ext=bigbed
+bigDataUrl 
 shortLabel TP - Cluster specific TFs - Hand2 loci
 longLabel TP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -249,7 +249,7 @@ type bigBed 6 .
     filterText.name **
 
 track vCM_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e6475292a45d0bfc/display?to_ext=bigbed
+bigDataUrl 
 shortLabel vCM - Cluster specific TFs - Hand2 loci
 longLabel vCM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
@@ -262,7 +262,7 @@ type bigBed 6 .
     filterText.name **
 
 track VEC_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213532db27cab8b45974/display?to_ext=bigbed
+bigDataUrl 
 shortLabel VEC - Cluster specific TFs - Hand2 loci
 longLabel VEC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
 itemRgb on
