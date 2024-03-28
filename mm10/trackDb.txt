@@ -1,7 +1,7 @@
 track aCM_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135754b2a416ede0c78/display?to_ext=bigbed
+bigDataUrl 
 shortLabel aCM - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel aCM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel aCM - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -12,9 +12,9 @@ type bigBed 6 .
     filterText.name **
 
 track AVC_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f5f91cd96240f62b/display?to_ext=bigbed
+bigDataUrl 
 shortLabel AVC - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel AVC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel AVC - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -25,9 +25,9 @@ type bigBed 6 .
     filterText.name **
 
 track cNCC_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135686dccfb90378a0e/display?to_ext=bigbed
+bigDataUrl 
 shortLabel cNCC - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel cNCC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel cNCC - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -38,9 +38,9 @@ type bigBed 6 .
     filterText.name **
 
 track EC_e_l_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213515ed1a01afef3cce/display?to_ext=bigbed
+bigDataUrl 
 shortLabel EC-e/EC-l - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel EC-e/EC-l - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel EC-e/EC-l - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -51,9 +51,9 @@ type bigBed 6 .
     filterText.name **
 
 track EndMT_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358b4e06eaec2c2f30/display?to_ext=bigbed
+bigDataUrl 
 shortLabel EndMT - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel EndMT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel EndMT - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -64,9 +64,9 @@ type bigBed 6 .
     filterText.name **
 
 track EP_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c69690cd899898e5/display?to_ext=bigbed
+bigDataUrl 
 shortLabel EP - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel EP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel EP - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -77,9 +77,9 @@ type bigBed 6 .
     filterText.name **
 
 track SMC_FB_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d95f7f32206437ea/display?to_ext=bigbed
+bigDataUrl 
 shortLabel SMC-FB - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel SMC-FB - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel SMC-FB - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -90,9 +90,9 @@ type bigBed 6 .
     filterText.name **
 
 track MP_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d73eaf111ac6bc8c/display?to_ext=bigbed
+bigDataUrl 
 shortLabel MP - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel MP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel MP - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -103,9 +103,9 @@ type bigBed 6 .
     filterText.name **
 
 track NCC_like_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135383054a33c83e3a7/display?to_ext=bigbed
+bigDataUrl 
 shortLabel NCC-like - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel NCC-like - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel NCC-like - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -116,9 +116,9 @@ type bigBed 6 .
     filterText.name **
 
 track aSHF_OFT_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213574699e344e2f8c94/display?to_ext=bigbed
+bigDataUrl 
 shortLabel aSHF-OFT - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel aSHF-OFT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel aSHF-OFT - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -130,9 +130,9 @@ type bigBed 6 .
 
 
 track PA_ecto_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135455e39f45dbd5960/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PA-ecto - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel PA-ecto - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel PA-ecto - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -144,9 +144,9 @@ type bigBed 6 .
 
 
 track PA_endo_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135356703450e0fcdf1/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PA-endo - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel PA-endo - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel PA-endo - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -157,9 +157,9 @@ type bigBed 6 .
     filterText.name **
 
 track PaM_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e37167814b82f6d9/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PaM - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel PaM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel PaM - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -170,9 +170,9 @@ type bigBed 6 .
     filterText.name **
 
 track PE_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359ad8af925e7744a2/display?to_ext=bigbed
+bigDataUrl 
 shortLabel PE - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel PE - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel PE - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -183,9 +183,9 @@ type bigBed 6 .
     filterText.name **
 
 track CPM_OFT_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fdb114587972d2c5/display?to_ext=bigbed
+bigDataUrl 
 shortLabel CPM-OFT - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel CPM-OFT - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel CPM-OFT - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -196,9 +196,9 @@ type bigBed 6 .
     filterText.name **
 
 track pSHF_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357251d76369af8098/display?to_ext=bigbed
+bigDataUrl 
 shortLabel pSHF - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel pSHF - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel pSHF - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -209,9 +209,9 @@ type bigBed 6 .
     filterText.name **
 
 track RBC_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135351fa199b71b56da/display?to_ext=bigbed
+bigDataUrl 
 shortLabel RBC - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel RBC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel RBC - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -223,9 +223,9 @@ type bigBed 6 .
 
 
 track SV_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d938f86918733c6c/display?to_ext=bigbed
+bigDataUrl 
 shortLabel SV - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel SV - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel SV - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -236,9 +236,9 @@ type bigBed 6 .
     filterText.name **
 
 track TP_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a89f05f5c70bf8a0/display?to_ext=bigbed
+bigDataUrl 
 shortLabel TP - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel TP - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel TP - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -249,9 +249,9 @@ type bigBed 6 .
     filterText.name **
 
 track vCM_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356dfc998fcc98d33d/display?to_ext=bigbed
+bigDataUrl 
 shortLabel vCM - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel vCM - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel vCM - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
@@ -262,9 +262,9 @@ type bigBed 6 .
     filterText.name **
 
 track VEC_Cluster_Specific_TFs_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354f6bc35a2d4868ad/display?to_ext=bigbed
+bigDataUrl 
 shortLabel VEC - Cluster specific TFs - Hand2/Tbx3-5/Shox2 loci
-longLabel VEC - Cluster specific (20% Avg.Expr, 0.5 Avg.Log2FC) TFs
+longLabel VEC - Cluster specific (10% Perc.Expr, -0.5 Avg.Log2FC) TFs {RED color = Top 30 DE TFs}
 itemRgb on
 useScore 1
 configurable on
