@@ -6,7 +6,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -19,7 +19,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -32,7 +32,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -45,7 +45,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -58,7 +58,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -71,7 +71,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -84,7 +84,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -97,7 +97,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -110,7 +110,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -123,7 +123,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -137,7 +137,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -151,7 +151,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -164,7 +164,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -177,7 +177,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -190,7 +190,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -203,7 +203,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -216,7 +216,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -230,7 +230,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -243,7 +243,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -256,7 +256,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
@@ -269,7 +269,7 @@ itemRgb on
 useScore 1
 configurable on
 visibility dense
-type bigBed 6 .
+type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
